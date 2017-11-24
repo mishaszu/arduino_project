@@ -85,3 +85,7 @@ Compontents:
 - Potentiometer
 - Bread board
 - Wire cables
+- **LED** red LED
+- **LED** yellow LED
+- **LED** green LED
+- **LED** 3x220om resistor
