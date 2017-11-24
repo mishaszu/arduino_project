@@ -42,6 +42,18 @@ Every project based on Platform IO.
 To run project install it first from [Official website](http://docs.platformio.org/en/latest/installation.html)
 
 ### 2
+By default projects are configured for Arduino Uno.
+To add your board you need to configure it first.
+1) find your board from platformio list:
+```
+pio boards
+```
+2) add your board configuration
+```
+pio init -b [yourboard]
+```
+
+### 3
 To install libraries download to the "lib" directory.
 To install libraries from this repo type:
 ```
@@ -51,8 +63,25 @@ To update libraries from this repo:
 ```
 git submodule update
 ```
-### 3
-Gather all componets desribed in section
 
 ### 4
+To upload your code on board:
+```
+pio run --target upload
+```
+To start serial monitor:
+```
+pio device monitor
+```
+
+### 5
 Checkout section wiki page
+
+
+## 1 Potentiometer
+[Potentiometer wiki page](https://github.com/mishaszu/arduino_project/wiki/01-Potentiometer)
+Compontents:
+- Arduino Uno
+- Potentiometer
+- Bread board
+- Wire cables
