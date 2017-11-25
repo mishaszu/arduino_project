@@ -76,16 +76,3 @@ pio device monitor
 
 ### 5
 Checkout section wiki page
-
-
-## 1 Potentiometer
-[Potentiometer wiki page](https://github.com/mishaszu/arduino_project/wiki/01-Potentiometer)
-Compontents:
-- Arduino Uno
-- Potentiometer
-- Bread board
-- Wire cables
-- **LED** red LED
-- **LED** yellow LED
-- **LED** green LED
-- **LED** 3x220om resistor
