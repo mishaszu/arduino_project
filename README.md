@@ -2,7 +2,7 @@
 Working with basic Arduino sensors, modules and elements
 
 1) [Potentiometer wiki page](https://github.com/mishaszu/arduino_project/wiki/01-Potentiometer)
-2) RGB led
+2) [RGB LED](https://github.com/mishaszu/arduino_projects/wiki/02-RGB-LED)
 3) Buzzer
 4) Wet sensor
 5) Photo resistor
