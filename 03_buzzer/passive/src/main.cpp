@@ -1,17 +1,18 @@
 #include <Arduino.h>
-#define  g     2550    // 392 Hz
-#define  b     2028    // 493 Hz
-#define  C     1912    // 523 Hz
 
-int melody[] = {C,b,g};
-int duration = 100;
+/*
+perdiod to play = 1/hz * 1000000
+*/
+#define g 2550    // 392 Hz
+#define b 2028    // 493 Hz
+#define C 1912    // 523 Hz
 
-#define pin 12
+#define pin 13
 
-void tone(int t);
+int duration = 500;
 
 void setup() {
-  pinMode(12, OUTPUT);
+  pinMode(pin, OUTPUT);
 }
 
 void loop() {
