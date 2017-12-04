@@ -4,7 +4,7 @@ Working with basic Arduino sensors, modules and elements
 1) [Potentiometer wiki page](https://github.com/mishaszu/arduino_project/wiki/01-Potentiometer)
 2) [RGB LED](https://github.com/mishaszu/arduino_projects/wiki/02-RGB-LED)
 4) [Buzzer](https://github.com/mishaszu/arduino_projects/wiki/03-Buzzer)
-5) Wet sensor
+5) [Water Sensor](https://github.com/mishaszu/arduino_projects/wiki/04-Water-sensor)
 6) Photo resistor
 7) Temperature & humidity sensor
 8) Joystick with leds
