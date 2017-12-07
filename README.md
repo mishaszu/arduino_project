@@ -5,7 +5,7 @@ Working with basic Arduino sensors, modules and elements
 2) [RGB LED](https://github.com/mishaszu/arduino_projects/wiki/02-RGB-LED)
 4) [Buzzer](https://github.com/mishaszu/arduino_projects/wiki/03-Buzzer)
 5) [Water Sensor](https://github.com/mishaszu/arduino_projects/wiki/04-Water-sensor)
-6) Photo resistor
+6) [Photo resistor](https://github.com/mishaszu/arduino_projects/wiki/05-Photoresistor)
 7) Temperature & humidity sensor
 8) Joystick with leds
 9) Distance sensor
